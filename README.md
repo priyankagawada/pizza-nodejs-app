@@ -2,6 +2,8 @@
 
 This repository contains the demo project for the [AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started).
 
+Clone repository from git using ## git clone ## command on windows or Linux machines.
+
 ## Project Explanation
 
 Pizza Luvrs is a social network for people who love pizza. Users can create accounts, create pizzas, and share them with others.
@@ -14,9 +16,12 @@ None at this time.
 
 Found one? Please let me know by opening an [issue](https://github.com/ryanmurakami/pizza-luvrs/issues)!
 
-## License
+## Steps to run application
+a. Change directory to the project folder:  cd project-folder-path
+  
+b. Run the command:    npm install
+  
+c. Run the command to start the application:    npm start  
 
-All Images copyright Ryan Lewis
 
-All Code under MIT license
 
