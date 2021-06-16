@@ -1,6 +1,4 @@
-## Demo Project for AWS Developer: Getting Started
-
-This repository contains the demo project for the [AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started).
+## Demo Project for AWS Developer
 
 Clone repository from git using ## git clone ## command on windows or Linux machines.
 
